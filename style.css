@@ -1,14 +1,5 @@
-:root {
-    --branco-principal: #FFFFFF;
-    --cinza-secundario: #C0C0C0;
-    --botao-azul: #167BF7;
-    --cor-de-fundo: #00030C;
-    --fonte-principal: 'Inter';
-}
-
-.container__aviso {
-    font-size: 12px;
-    color: var(--cinza-secundario);
+.container__imagem {
+    margin: 1em 0 2em 0;
 }
 
 .container__botao {
@@ -18,8 +9,8 @@
     color: var(--branco-principal);
     display: block;
     text-decoration: none;
+    margin-bottom: 1em;
 }
-.container__titulo {
-    font-size: 28px;
-    font-weight: 700;
+.container__caixa {
+    margin: 0 6em;
 }
