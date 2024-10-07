@@ -1,5 +1,4 @@
-.rodape__texto {
-    margin: 1em 0;
-    color: var(--cinza-secundario);
-    font-size: 14px;
+.rodape {
+    text-align: center;
+    margin: 5em 3em;
 }
