@@ -1,3 +1,3 @@
-.lista__link a:hover {
-    color: var(--botao-azul);
+.lista__link a:active {
+    color: purple;
 }
